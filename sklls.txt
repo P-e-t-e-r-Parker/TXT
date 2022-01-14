@@ -1,0 +1,18 @@
+json	
+xml
+postman
+filder
+dev tools
+vpn
+android studio
+charles
+terminal
+sql
+git
+jmeter
+python	
+sdlc
+stlc
+api
+xcode
+scrum
